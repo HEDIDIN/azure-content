@@ -14,7 +14,7 @@
     ms.tgt_pltfrm="na"
     ms.devlang="na"
     ms.topic="article"
-    ms.date="07/29/2016"
+    ms.date="10/24/2016"
     ms.author="b-hoedid"/>
 
 # Logging and error handling in Logic Apps
